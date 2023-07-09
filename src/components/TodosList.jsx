@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect } from 'react';
 
 import { getTodosList } from '../redux/actions/index';
 // import { toggleTodo, updateTodo } from "../redux/actions";
