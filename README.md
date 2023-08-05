@@ -38,4 +38,4 @@ For any further details or issues, please refer to the respective server-side an
 - Client Side Repository: [https://github.com/uparkalau/mern-todo-client](https://github.com/uparkalau/mern-todo-client)
 
 app.netlify.com live
-- https://master--singular-nougat-74e7f3.netlify.app/
+- https://singular-nougat-74e7f3.netlify.app/
